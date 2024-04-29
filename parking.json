@@ -1,0 +1,161 @@
+{
+    "parking_lots": [
+      {
+        "name": "Foy",
+        "map_jpg": "Foy_map.jpg",
+        "total_space": 12,
+        "comments": "Located next to the Handcock Building",
+        "other": "Faculty Only, until after 5 pm",
+        "spaces": [
+          {
+            "id": 1,
+            "type": "faculty",
+            "handicap": false,
+            "availability": "available",
+            "filled_datetime": null,
+            "reserved_datetime": null
+          },
+          {
+            "id": 2,
+            "type": "faculty",
+            "handicap": true,
+            "availability": "filled",
+            "filled_datetime": "2024-04-28T08:42:15",
+            "reserved_datetime": null
+          },
+          {
+            "id": 3,
+            "type": "faculty",
+            "handicap": false,
+            "availability": "filled",
+            "filled_datetime": "2024-04-28T10:30:00",
+            "reserved_datetime": null
+          },
+          {
+            "id": 4,
+            "type": "faculty",
+            "handicap": false,
+            "availability": "reserved",
+            "filled_datetime": null,
+            "reserved_datetime": "2024-04-30T12:18:33"
+          },
+          {
+            "id": 5,
+            "type": "faculty",
+            "handicap": false,
+            "availability": "filled",
+            "filled_datetime": "2024-04-28T11:32:04",
+            "reserved_datetime": null
+          },
+          {
+            "id": 6,
+            "type": "faculty",
+            "handicap": false,
+            "availability": "available",
+            "filled_datetime": null,
+            "reserved_datetime": null
+          },
+          {
+            "id": 7,
+            "type": "faculty",
+            "handicap": false,
+            "availability": "available",
+            "filled_datetime": null,
+            "reserved_datetime": null
+          },
+          {
+            "id": 8,
+            "type": "faculty",
+            "handicap": true,
+            "availability": "available",
+            "filled_datetime": null,
+            "reserved_datetime": null
+          },
+          {
+            "id": 9,
+            "type": "faculty",
+            "handicap": false,
+            "availability": "available",
+            "filled_datetime": null,
+            "reserved_datetime": null
+          },
+          {
+            "id": 10,
+            "type": "faculty",
+            "handicap": false,
+            "availability": "available",
+            "filled_datetime": null,
+            "reserved_datetime": null
+          },
+          {
+            "id": 11,
+            "type": "faculty",
+            "handicap": false,
+            "availability": "available",
+            "filled_datetime": null,
+            "reserved_datetime": null
+          },
+          {
+            "id": 12,
+            "type": "faculty",
+            "handicap": false,
+            "availability": "available",
+            "filled_datetime": null,
+            "reserved_datetime": null
+          }
+
+        ]
+      },
+      {
+        "name": "Fontaine",
+        "map_jpg": "Fontaine_map.jpg",
+        "total_space": 30,
+        "comments": "Loacted near the north entrance",
+        "other": "For Faculty, Staff, and Students",
+        "spaces": [
+          {
+            "id": 1,
+            "type": "staff",
+            "handicap": false,
+            "availability": "reserved",
+            "filled_datetime": null,
+            "reserved_datetime": "2024-04-28T09:00:00"
+          },
+          {
+            "id": 2,
+            "type": "staff",
+            "handicap": false,
+            "availability": "available",
+            "filled_datetime": null,
+            "reserved_datetime": null
+          }
+        ]
+      },
+      {
+        "name": "Donelly",
+        "map_jpg": "Donelly_map.jpg",
+        "total_space": 20,
+        "comments": "Loacted at the Donelly Building",
+        "other": "Only for Staff at Donelly",
+        "spaces": [
+          {
+            "id": 1,
+            "type": "faculty",
+            "handicap": false,
+            "availability": "available",
+            "filled_datetime": null,
+            "reserved_datetime": null
+          },
+          {
+            "id": 2,
+            "type": "security",
+            "handicap": false,
+            "availability": "available",
+            "filled_datetime": null,
+            "reserved_datetime": null
+          }
+
+        ]
+      }
+    ]
+  }
