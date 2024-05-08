@@ -2,7 +2,7 @@
     "parking_lots": [
       {
         "name": "Foy",
-        "map_jpg": "Foy_map.jpg",
+        "map_jpg": "Foy_map.png",
         "total_space": 12,
         "comments": "Located next to the Handcock Building",
         "other": "Faculty Only, until after 5 pm",
@@ -108,7 +108,7 @@
       },
       {
         "name": "Fontaine",
-        "map_jpg": "Fontaine_map.jpg",
+        "map_jpg": "Fontaine_map.png",
         "total_space": 30,
         "comments": "Loacted near the north entrance",
         "other": "For Faculty, Staff, and Students",
@@ -132,8 +132,8 @@
         ]
       },
       {
-        "name": "Donelly",
-        "map_jpg": "Donelly_map.jpg",
+        "name": "Ward",
+        "map_jpg": "Ward_map.png",
         "total_space": 20,
         "comments": "Loacted at the Donelly Building",
         "other": "Only for Staff at Donelly",

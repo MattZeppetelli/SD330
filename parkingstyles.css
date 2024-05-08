@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: lightgrey;
+}
+div{
+    font-size: 35px;
+}
+
+h2{
+    text-align: center;
+    font-size: 50px;
+    color: orangered;
+}
+
+button {
+    display: block;
+    margin: 10px auto;
+    padding: 10px 20px;
+    font-size: 26px;
+    cursor: pointer;
+}
+
+#lotsContainer {
+    margin-top: 20px;
+}
+
+p {
+    margin: 5px 0;
+    text-align: center;
+    font-size: 30px;
+    color: orangered;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
